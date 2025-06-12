@@ -95,8 +95,6 @@ garden
 kitchen
 bathroom
 bedroom
-living room
-dining room
 garage
 yard
 street
