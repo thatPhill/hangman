@@ -1,3 +1,5 @@
+package game;
+
 public enum HangmanFigure {
     STATE_0(
             "  +---+\n" +

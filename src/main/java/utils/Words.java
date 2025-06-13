@@ -5,6 +5,7 @@ public final class Words {
 private Words() {}
 
     public static StringBuilder hideWord(String word) {
+        System.out.println(word);
         return new StringBuilder(word.replaceAll("[a-zA-Z\\u0400-\\u04FF]", "_"));
     }
 
